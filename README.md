@@ -103,7 +103,7 @@ FULL SUBTRACTOR:
 
 
 **Output Timing Waveform**
-
+ 
 FULL ADDER:
 
 ![image](https://github.com/user-attachments/assets/31f67e9c-bc40-46e2-a38f-ebb1dfb6884f)
